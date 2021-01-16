@@ -415,6 +415,12 @@ body{}
 		font-size: 18px;
 	}
 
+	
+	.tour_content {
+		padding-right: 0;
+		text-align: center;
+	}
+
 	.tour_content h1 {
 		font-size: 34px;
 	}
@@ -488,6 +494,11 @@ body{}
 	.slider_content p {
 		font-size: 16px;
 		padding-right: 50px;
+	}
+
+	.tour_content {
+		text-align: center;
+		padding-right: 0;
 	}
 
 	.tour_section {
