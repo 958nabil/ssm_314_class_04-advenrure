@@ -631,6 +631,11 @@ body{}
 		object-position: center;
 	}
 
+	.tour_content{
+		padding-right: 0;
+		text-align: center;
+	}
+
 	.img2 {
 		width: 140px;
 		height: 140px;
@@ -672,6 +677,11 @@ body{}
 	.event_img p {
 		font-size: 16px;
 		width: 300px;
+	}
+
+	.tour_content{
+		text-align: center;
+		padding-right: 0;
 	}
 
 	.tour_content p {
